@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @sitaaraa
-<!---- 👀 I’m interested in ... --->
+- 👋 Hi, I’m @sitaaraa (she/her)
 - 🌱 I’m currently learning to code
-<!--- - 📫 How to reach me ... --->
 
-<!---
+
+
+<!--- - 👀 I’m interested in ...
+ - 📫 How to reach me ... 
+
 sitaaraa/sitaaraa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
